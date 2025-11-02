@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: montserrat;
 }
 
 hr {
@@ -28,10 +29,6 @@ table {
   th {
     font-size: 1rem;
     padding: 1px 1rem 1px 0;
-  }
-
-  th {
-    font-weight: bold;
   }
 }
 
@@ -206,6 +203,7 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+
 
 .profile.float-right {
   margin-left: 1rem;
