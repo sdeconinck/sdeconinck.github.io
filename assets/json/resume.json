@@ -13,9 +13,7 @@
       "countryCode": "BE",
       "region": "Flanders"
     },
-    "profiles": [
-
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -25,10 +23,7 @@
       "startDate": "2021-09-01",
       "endDate": "present",
       "summary": "Researching privacy-preserving machine learning methods for computer vision, including adversarial training and practical filtering approaches for deployment on edge devices.",
-      "highlights": [
-        "Adversarial training for attribute obfuscation",
-        "Lightweight filtering techniques for edge deployment"
-      ]
+      "highlights": ["Adversarial training for attribute obfuscation", "Lightweight filtering techniques for edge deployment"]
     },
     {
       "name": "Ghent University",
@@ -59,16 +54,17 @@
     }
   ],
   "education": [
-
     {
-      "institution":"Ghent University",
+      "institution": "Ghent University",
       "location": "Ghent, Belgium",
-      "area":"Information Engineering Technology",
+      "area": "Information Engineering Technology",
       "studyType": "PhD",
       "startDate": "2021-09-01",
       "endDate": "present",
-      "courses": ["Topic: Near-Sensor Filtering of Privacy-Sensitive Features from Rich Data",
-    "Supervisors: prof. Pieter Simoens and prof. Sam Leroux"]
+      "courses": [
+        "Topic: Near-Sensor Filtering of Privacy-Sensitive Features from Rich Data",
+        "Supervisors: prof. Pieter Simoens and prof. Sam Leroux"
+      ]
     },
     {
       "institution": "Ghent University",
@@ -79,7 +75,8 @@
       "startDate": "2017-09-01",
       "endDate": "2021-09-01",
       "score": "Summa Cum Laude",
-      "courses": ["Graduated top of my class (Summa Cum Laude)", "Master thesis: Privacy aware object detection on surveillance data"]    }
+      "courses": ["Graduated top of my class (Summa Cum Laude)", "Master thesis: Privacy aware object detection on surveillance data"]
+    }
   ],
   "awards": [
     {
@@ -93,7 +90,7 @@
       "title": "Awarded a Special Research Fund for my PhD research",
       "date": "2022-10-01",
       "awarder": "Ghent University"
-        }
+    }
   ],
   "skills": [
     {
