@@ -6,7 +6,7 @@ subtitle: PhD student at <a href='https://decide.ugent.be/'>DECIDE</a>, IDLab, G
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic4.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>sander.deconinck@ugent.be</p>
